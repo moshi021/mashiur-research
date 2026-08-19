@@ -4,7 +4,7 @@ A lightweight, responsive three-page academic research portfolio built with vani
 
 ## Pages
 - `index.html` — Home
-- `research.html` — Research Interest
+- `research.html` — Research Interests
 - `publications.html` — Publications
 
 ## Run locally
